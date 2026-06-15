@@ -9,3 +9,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## Features
 - Github collaboration workflow practice
+Explaining more about this feature 
