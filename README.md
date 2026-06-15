@@ -9,3 +9,7 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## Features
 - Github collaboration workflow practice
+
+
+## Contribution workflow
+Fork the project, create a branch and open a pull request.
